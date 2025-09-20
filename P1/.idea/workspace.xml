@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1a40edb9-d4d5-4488-9524-046fb7aa4dff" name="更改" comment="">
-      <change beforePath="$PROJECT_DIR$/../P/Cindy.py" beforeDir="false" />
+    <list default="true" id="e9638dd4-4e4f-4b37-bf93-3646ffa01287" name="更改" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sugar.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sugar.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,7 +23,7 @@
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 8
 }]]></component>
-  <component name="ProjectId" id="32yXCLAUkWKXTG7MW0N1dpWMAqQ" />
+  <component name="ProjectId" id="32yYh0t9MYgmjqgvoTkw4ePXEN6" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -31,7 +32,7 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -45,12 +46,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
-      <changelist id="1a40edb9-d4d5-4488-9524-046fb7aa4dff" name="更改" comment="" />
-      <created>1758393660458</created>
+      <changelist id="e9638dd4-4e4f-4b37-bf93-3646ffa01287" name="更改" comment="" />
+      <created>1758394394584</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1758393660458</updated>
-      <workItem from="1758393660458" duration="71000" />
+      <updated>1758394394584</updated>
+      <workItem from="1758394395556" duration="30000" />
     </task>
     <servers />
   </component>
