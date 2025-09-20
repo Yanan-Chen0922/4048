@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-print("No!")
-=======
-print("Hello")
->>>>>>> feture
+print("IIIIIIII")
